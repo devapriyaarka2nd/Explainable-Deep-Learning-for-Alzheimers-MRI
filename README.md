@@ -170,9 +170,9 @@ Subject-level test performance:
 | F1-score | 0.6250 |
 
 Confusion Matrix:
+text
 
-```text
-                Predicted
+                         Predicted
                 Non-Demented  Dementia
 
 Non-Demented        41           7
@@ -186,7 +186,7 @@ Dementia             5          10
 
 Use:
 
-```text
+ 'text
 numpy
 pandas
 matplotlib
