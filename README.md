@@ -169,27 +169,12 @@ Subject-level test performance:
 | Specificity | 0.8542 |
 | F1-score | 0.6250 |
 
-Confusion Matrix:
-text
-
-                         Predicted
-                Non-Demented  Dementia
-
-Non-Demented        41           7
-Dementia             5          10
 
 
 
----
 
-# 4. Add a `requirements.txt`
 
-Use:
 
- 'text
-numpy
-pandas
-matplotlib
 seaborn
 scikit-learn
 nibabel
