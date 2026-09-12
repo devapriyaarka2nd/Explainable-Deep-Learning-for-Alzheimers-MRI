@@ -1,0 +1,14 @@
+
+
+Use:
+
+```text
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+nibabel
+torch
+torchvision
+jupyter
