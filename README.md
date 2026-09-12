@@ -169,7 +169,20 @@ Subject-level test performance:
 | Specificity | 0.8542 |
 | F1-score | 0.6250 |
 
+Limitations
 
+This is an initial research prototype rather than a clinically validated
+diagnostic system.
+
+Important limitations include:
+
+Relatively small number of subjects
+Class imbalance
+Single-dataset evaluation
+No external validation in the current experiment
+Binary labeling based on CDR
+Coarse spatial resolution of Grad-CAM
+Probability calibration requires further investigation
 
 
 
